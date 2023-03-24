@@ -599,10 +599,6 @@ color: #FFFFFF;
   border: none;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.modal-btn-title{
-  width: 105px;
-  height: 24px;
-}
 .footer-form-submit:hover,
 .footer-form-submit:focus{
   background-color: var(--accent-color);
